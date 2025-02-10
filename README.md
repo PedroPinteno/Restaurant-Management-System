@@ -119,7 +119,7 @@ Sistema de gestión de restaurantes full-stack desarrollado con tecnologías mod
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/usuario/restaurant-chain-manager.git
+   git clone https://github.com/pedrpinteno/restaurant-chain-manager.git
    cd restaurant-chain-manager
    ```
 
